@@ -1,1 +1,1 @@
-# MyBatman
+# MyBatman - учебный проект
